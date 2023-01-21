@@ -1,0 +1,16 @@
+/home/isaac/Practice/c-sharp/bin/Debug/net5.0/c-sharp
+/home/isaac/Practice/c-sharp/bin/Debug/net5.0/c-sharp.deps.json
+/home/isaac/Practice/c-sharp/bin/Debug/net5.0/c-sharp.runtimeconfig.json
+/home/isaac/Practice/c-sharp/bin/Debug/net5.0/c-sharp.runtimeconfig.dev.json
+/home/isaac/Practice/c-sharp/bin/Debug/net5.0/c-sharp.dll
+/home/isaac/Practice/c-sharp/bin/Debug/net5.0/c-sharp.pdb
+/home/isaac/Practice/c-sharp/obj/Debug/net5.0/c-sharp.csproj.AssemblyReference.cache
+/home/isaac/Practice/c-sharp/obj/Debug/net5.0/c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaac/Practice/c-sharp/obj/Debug/net5.0/c-sharp.AssemblyInfoInputs.cache
+/home/isaac/Practice/c-sharp/obj/Debug/net5.0/c-sharp.AssemblyInfo.cs
+/home/isaac/Practice/c-sharp/obj/Debug/net5.0/c-sharp.csproj.CoreCompileInputs.cache
+/home/isaac/Practice/c-sharp/obj/Debug/net5.0/c-sharp.dll
+/home/isaac/Practice/c-sharp/obj/Debug/net5.0/refint/c-sharp.dll
+/home/isaac/Practice/c-sharp/obj/Debug/net5.0/c-sharp.pdb
+/home/isaac/Practice/c-sharp/obj/Debug/net5.0/c-sharp.genruntimeconfig.cache
+/home/isaac/Practice/c-sharp/obj/Debug/net5.0/ref/c-sharp.dll
